@@ -1,0 +1,29 @@
+abandon: bo roi
+ability: co kha nang
+about: bao gom
+above: phia tren
+amazing: tuyet voi
+and: va
+ban: cam
+banana: qua chuoi
+bang: vu no
+breath: tho
+bult: xay
+burn: dot
+calculate: tinh toan
+cantin: cang tin
+categor: danh muc
+club: cau lac bo
+computer: may tinh
+confident: tu tin
+delete: xoa
+diffenrent: khac nhau
+done: hoan thanh
+double: hai
+down: xuong
+driver: lai xe
+duplicate: dong thoi
+english: tieng anh
+entertainment: giai tri
+environment: moi truong
+esport: tro choi dien tu
